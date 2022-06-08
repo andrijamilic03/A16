@@ -1,0 +1,30 @@
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\bin\Debug\Izlozba.exe.config
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\bin\Debug\Izlozba.exe
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\bin\Debug\Izlozba.pdb
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.AssemblyReference.cache
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.Form1.resources
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.Properties.Resources.resources
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.GenerateResource.cache
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.CoreCompileInputs.cache
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.exe
+C:\Users\R8\Desktop\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.pdb
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\bin\Debug\Izlozba.exe.config
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\bin\Debug\Izlozba.exe
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\bin\Debug\Izlozba.pdb
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.AssemblyReference.cache
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.Form1.resources
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.Properties.Resources.resources
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.GenerateResource.cache
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.CoreCompileInputs.cache
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.exe
+D:\IV\Programiranje\NiketicMarija\Izlozba\Izlozba\obj\Debug\Izlozba.pdb
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\bin\Debug\Izlozba.exe.config
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\bin\Debug\Izlozba.exe
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\bin\Debug\Izlozba.pdb
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\obj\Debug\Izlozba.csprojAssemblyReference.cache
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\obj\Debug\Izlozba.Form1.resources
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\obj\Debug\Izlozba.Properties.Resources.resources
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.GenerateResource.cache
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\obj\Debug\Izlozba.csproj.CoreCompileInputs.cache
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\obj\Debug\Izlozba.exe
+C:\Users\Andrija Milic\Downloads\Izlozba\Izlozba\obj\Debug\Izlozba.pdb
